@@ -17,14 +17,14 @@
 #define MAX_LEVEL 16
 
 typedef struct node {
-		    int key;
-			    int value;
-				    struct node* next[];
+	int key;
+	int value;
+	struct node* next[];
 } node_t;
 
 typedef struct {
-		    int     level;
-			    node_t* header;
+	int     level;
+	node_t* header;
 } skiplist_t;
 
 // api 
