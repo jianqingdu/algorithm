@@ -1,6 +1,11 @@
 # algorithm
-all kinds of algorithms implemented by myself
+-All kinds of algorithms implemented by myself
 
-learning by doing
+* skip list
 
-I hear and I forget, I see and I know, I do and I understand
+* b+ tree
+
+
+##Learning by doing
+
+- I hear and I forget, I see and I know, I do and I understand
