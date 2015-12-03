@@ -5,6 +5,7 @@
 
 * b+ tree
 
+* a recursive descent parser for calculator
 
 ##Learning by doing
 
