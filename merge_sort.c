@@ -43,6 +43,9 @@ void merge(int array[], int start, int middle, int end)
             array[k] = right[j++];
         }
     }
+    
+    free(left);
+    free(right);
 }
 
 void merge_sort(int array[], int start, int end)
