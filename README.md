@@ -9,7 +9,11 @@
 
 * merge sort
 
+* heap sort
+
 * quick sort
+
+
 
 
 ##Learning by doing
