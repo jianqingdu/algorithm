@@ -13,7 +13,7 @@
 
 * quick sort
 
-
+* binary search tree
 
 
 ##Learning by doing

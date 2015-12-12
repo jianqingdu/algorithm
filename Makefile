@@ -1,4 +1,4 @@
-all: skiplist bptree merge_sort quick_sort heap_sort
+all: skiplist bptree merge_sort quick_sort heap_sort binary_search_tree
 
 skiplist: skiplist.c
 	gcc skiplist.c -o skiplist
@@ -15,5 +15,8 @@ quick_sort: quick_sort.c
 heap_sort: heap_sort.c
 	gcc heap_sort.c -o heap_sort
     
+binary_search_tree: binary_search_tree.c
+	gcc binary_search_tree.c -o binary_search_tree
+
 clean:
-	rm skiplist bptree merge_sort quick_sort heap_sort
+	rm skiplist bptree merge_sort quick_sort heap_sort binary_search_tree
