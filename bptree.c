@@ -3,7 +3,7 @@
 //  bptree
 //
 //  Created by jianqing.du on 15-12-1.
-//  Copyright (c) 2015年 mgj. All rights reserved.
+//  Copyright (c) 2015年. All rights reserved.
 //
 
 /*

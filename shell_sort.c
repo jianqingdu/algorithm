@@ -3,7 +3,7 @@
 //  algorithm
 //
 //  Created by jianqing.du on 16-1-25.
-//  Copyright (c) 2016年 mgj. All rights reserved.
+//  Copyright (c) 2016年. All rights reserved.
 //
 
 /*

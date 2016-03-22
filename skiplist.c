@@ -3,7 +3,7 @@
 //  skiplist
 //
 //  Created by jianqing.du on 15-11-26.
-//  Copyright (c) 2015年 mgj. All rights reserved.
+//  Copyright (c) 2015年. All rights reserved.
 //
 
 #include <stdio.h>
