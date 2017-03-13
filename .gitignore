@@ -1,3 +1,8 @@
 *.o
 bptree
 skiplist
+binary_search_tree
+heap_sort
+merge_sort
+quick_sort
+shell_sort

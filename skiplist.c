@@ -47,7 +47,7 @@ static int rand_level()
 
 static node_t* new_node(int level, int key, int value)
 {
-    node_t* n = malloc(sizeof(node_t) + level * sizeof(node_t));
+    node_t* n = malloc(sizeof(node_t) + level * sizeof(node_t*));
     if (!n) {
         return NULL;
     }

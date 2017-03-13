@@ -19,7 +19,7 @@ binary_search_tree: binary_search_tree.c
 	gcc binary_search_tree.c -o binary_search_tree
 
 shell_sort: shell_sort.c
-	gcc shell_sort -o shell_sort
+	gcc shell_sort.c -o shell_sort
 
 clean:
 	rm skiplist bptree merge_sort quick_sort heap_sort binary_search_tree shell_sort

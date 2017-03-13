@@ -16,6 +16,6 @@
 * binary search tree
 
 
-##Learning by doing
+# Learning by doing
 
 - I hear and I forget, I see and I know, I do and I understand
