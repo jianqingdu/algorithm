@@ -1,5 +1,6 @@
 # algorithm
--All kinds of algorithms implemented by myself
+
+- All kinds of algorithms implemented by myself
 
 * skip list
 

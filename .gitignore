@@ -6,3 +6,4 @@ heap_sort
 merge_sort
 quick_sort
 shell_sort
+setup.sh
